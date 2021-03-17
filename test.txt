@@ -1,7 +1,7 @@
 #message
 #hello, i'm chamstar
 
+#this is first step
+
 #amazing
 #seo_o
-
-#hard
